@@ -1,11 +1,9 @@
+ let name = "muhammadjamiu abdulganiu"
+ let height = "5 feets"
+ let country = "nigeria";
 
-    const name = prompt("Enter your full name")
-    let height = prompt("Enter your height")
-    const country = prompt("Enter your country name")
-    
-    document.write("<h1>my name : " + name + "<br>" + "<br>" + "height : " + height + "<br>" + "<br>" + "country : " + country)
-    
-    alert("name : "+ name +  " heights : " + height + " country : " + country);
+alert("name : "+ name  + "  height : " + height + "  country :  " + country);
+document.write("<h1>my name : " + name + "<br>" + "<br>" + "height : " + height + "<br>" + "<br>" + "country : " + country);
 
 
    
